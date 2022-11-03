@@ -30,7 +30,13 @@ Up to 4 hours.
 * Run cargo test for some test cases I have provided
 
 ### Things I could've improved if this was an actual application
+
 * better logging using log and env_logger
 * more and better test cases 
 * download progress tracker by modifying the download function and adding another channel
 * the comments could be better and I could add cargo doc documentation
+
+
+Feel free to ask me any question about my solution.
+
+Thank you for the task, it was fun :)
